@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome! My name is Max Gillet. I am currently a business economist at the Federal Reserve Bank of Chicago. This is roughly what I look like: 
+Welcome! My name is Max Gillet. I am currently a PhD student in Finance at the University of Chicago, Booth School of Business. This is roughly what I look like: 
 
 <img src="{{ '/assets/ai_profile.jpg' | relative_url }}" alt="Profile Picture" style="display: block; margin-left: auto; margin-right: auto; width: 300px;">
 
