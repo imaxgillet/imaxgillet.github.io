@@ -6,10 +6,39 @@ layout: home
 ---
 
 <style>
-.intro-row{display:flex; align-items:flex-start; gap:1rem; flex-wrap:wrap;}
-.intro-text{flex:1; font-size:1.2rem; line-height:1.6; min-width:220px;}
-.intro-pic{flex:0 0 140px; max-width:30%; order:-1;}
+.intro-row{display:flex; align-items:flex-start; gap:1.5rem; flex-wrap:wrap;}
+.intro-text{flex:1; min-width:240px;}
+.intro-pic{flex:0 0 156px; max-width:31%; order:-1;}
 .intro-pic img{width:100%; border-radius:50%;}
+.intro-lead{
+  font-size:1.15rem;
+  line-height:1.7;
+  margin-bottom:.9rem;
+}
+.intro-note{
+  color:#5f6b7a;
+  margin-bottom:1.1rem;
+}
+.quick-links{
+  display:flex;
+  gap:.65rem;
+  flex-wrap:wrap;
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.quick-links a{
+  display:inline-block;
+  padding:.4rem .85rem;
+  border:1px solid #d7dfe8;
+  border-radius:999px;
+  background:#fafbfd;
+  text-decoration:none;
+}
+.quick-links a:hover{
+  background:#f2f5f8;
+  text-decoration:none;
+}
 
 /* ---- overrides to remove large bottom whitespace ----
    Targets common theme selectors used to vertically center the home page.
@@ -33,7 +62,13 @@ footer, .site-footer {
 
 <div class="intro-row">
   <div class="intro-text">
-    <p>Welcome! My name is Max Gillet. I am currently a PhD student in Finance at the University of Chicago, Booth School of Business. Before that, I was a business economist at the Chicago Fed. My research interests include unconventional monetary policy, housing, and macrofinance more broadly.</p>
+    <p class="intro-lead">Welcome. My name is Max Gillet. I am a PhD student in Finance at the University of Chicago Booth School of Business. Before that, I was a business economist at the Chicago Fed.</p>
+    <p class="intro-note">My research interests include unconventional monetary policy, housing, and macrofinance.</p>
+    <ul class="quick-links">
+      <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+      <li><a href="{{ '/assets/resume.pdf' | relative_url }}">Curriculum Vitae</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    </ul>
   </div>
 
   <div class="intro-pic">
