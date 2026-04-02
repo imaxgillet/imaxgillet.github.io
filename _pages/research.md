@@ -12,6 +12,7 @@ Here is a copy of my [resume]({{ site.baseurl }}/assets/resume.pdf).
 
 # Other Work
 
+- *The U.S. Labor Market: A Long-Run Perspective.* With Scott A. Brave, R. Andrew Butters, and Ross Cole. Available [here](https://www.chicagofed.org/publications/economic-perspectives/2026/1)
 - *Nowcasting Median Household Income with Mixed-Frequency Models.* Available [here](https://www.chicagofed.org/publications/economic-perspectives/2024/7), code [here](https://github.com/imaxgillet/Nowcasting-Median-Household-Income-with-Mixed-Frequency-Models).
 - *How Do Recent Financial Conditions Compare to Previous Episodes of Monetary Tightening?* With Tom King. Available [here](https://www.chicagofed.org/publications/chicago-fed-letter/2024/498).
 - *What Does the NFCI Tell Us About Future Economic Growth?* With Scott Brave. Available [here](https://www.chicagofed.org/publications/chicago-fed-insights/2024/nfci-future-economic-growth).
