@@ -4,24 +4,15 @@
 @import "minima";
 
 html {
-  font-size: 18px;
+  font-size: 18.5px;
 }
 
 body {
-  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
-  color: #202733;
-  line-height: 1.7;
+  font-family: Charter, "Bitstream Charter", Cambria, Georgia, serif;
+  color: #20242c;
+  line-height: 1.72;
+  background: #fcfcfa;
   text-rendering: optimizeLegibility;
-}
-
-.site-title,
-.site-nav,
-.post-title,
-.post-content h1,
-.post-content h2,
-.post-content h3,
-.footer-meta {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 .wrapper {
@@ -29,8 +20,8 @@ body {
 }
 
 .site-header {
-  border-top: 4px solid #2f3c4f;
-  border-bottom: 1px solid #e5e7eb;
+  border-top: 4px solid #32465a;
+  border-bottom: 1px solid #e4e5e7;
 }
 
 .site-title {
@@ -38,8 +29,20 @@ body {
   font-weight: 600;
 }
 
+.site-title,
+.site-title:visited,
+.site-nav .page-link,
+.site-nav .page-link:visited,
+.post-title,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.footer-meta {
+  font-family: Charter, "Bitstream Charter", Cambria, Georgia, serif;
+}
+
 .site-nav .page-link {
-  color: #44556b;
+  color: #49596c;
 }
 
 .page-content {
@@ -49,21 +52,20 @@ body {
 .home p,
 .post-content p,
 .post-content li {
-  font-size: 1.03rem;
+  font-size: 1.04rem;
 }
 
 .post-title,
 .post-content h1 {
-  font-size: 1.6rem;
+  font-size: 1.58rem;
   letter-spacing: -0.01em;
   margin-bottom: 1rem;
 }
 
 .post-content h2 {
-  font-size: 1.15rem;
+  font-size: 1.14rem;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  letter-spacing: 0.01em;
 }
 
 .post-content ul {
@@ -72,11 +74,11 @@ body {
 
 .site-footer {
   padding: 18px 0 22px;
-  border-top: 1px solid #e5e7eb;
+  border-top: 1px solid #e4e5e7;
 }
 
 .footer-meta {
-  color: #5f6b7a;
+  color: #32465a;
   font-size: 0.94rem;
 }
 
