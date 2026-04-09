@@ -8,7 +8,7 @@ You can download my [curriculum vitae]({{ site.baseurl }}/assets/resume.pdf).
 
 # Working Papers
 
-- *"Open Ended Treasury Purchases: From Market Functioning to Financial Easing."* With Stefania D’Amico, Sam Schulhofer-Wohl, and Tim Seida. Revise and resubmit at *The Review of Financial Studies*. [Current version](https://www.newyorkfed.org/research/staff_reports/sr1183.html).
+- *"Open Ended Treasury Purchases: From Market Functioning to Financial Easing."* With Stefania D’Amico, Sam Schulhofer-Wohl, and Tim Seida. [Current version](https://www.newyorkfed.org/research/staff_reports/sr1183.html).
 
 # Other Work
 
