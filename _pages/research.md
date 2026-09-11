@@ -13,6 +13,7 @@ You can download my [curriculum vitae]({{ site.baseurl }}/assets/resume.pdf).
 # In Progress
 
 - *"Do Not Underestimate QT."* With Stefania D’Amico, Calvin Price, and Brian Wickman.
+- *"AI Pivots and Retail Trading."* First-year paper.
 
 # Other Work
 
