@@ -62,7 +62,7 @@ footer, .site-footer {
 
 <div class="intro-row">
   <div class="intro-text">
-    <p class="intro-lead">Welcome. My name is Max Gillet. I am a PhD student in Finance at the University of Chicago Booth School of Business. Before that, I was a business economist at the Chicago Fed.</p>
+    <p class="intro-lead">Welcome! My name is Max Gillet. I am a student in the Joint PhD Program in Financial Economics at the University of Chicago. Before that, I was a business economist at the Chicago Fed.</p>
     <p class="intro-note">My research interests include unconventional monetary policy, housing, and macrofinance.</p>
     <ul class="quick-links">
       <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
